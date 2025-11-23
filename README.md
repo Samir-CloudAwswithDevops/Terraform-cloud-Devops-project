@@ -1,4 +1,5 @@
-<img width="318" height="234" alt="image" src="https://github.com/user-attachments/assets/58bf8a7f-7d24-4ae6-aaae-53aa5f3fffce" />
+  <img width="1200" height="630" alt="image" src="https://github.com/user-attachments/assets/15235846-c354-4d81-a4a3-388d2e48d2f9" />
+
 
 Terraform Module: Module Name
 
